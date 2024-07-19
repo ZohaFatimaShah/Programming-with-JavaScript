@@ -1,2 +1,2 @@
 # Programming-with-JavaScript
-Author - Zoha Fatima
+Author - Zoha Fatima Shah
